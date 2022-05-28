@@ -1,0 +1,6 @@
+name = "LapeyreRegistry"
+uuid = "907be819-33fb-43a5-ba93-44eb55921698"
+repo = "git@github.com:jlapeyre/LapeyreRegistry.git"
+description = "Registry for some packages not in the General Registry"
+
+[packages]
