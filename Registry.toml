@@ -4,3 +4,4 @@ repo = "git@github.com:jlapeyre/LapeyreRegistry.git"
 description = "Registry for some packages not in the General Registry"
 
 [packages]
+6033591e-aae9-4c88-8f5f-a341f9ca5325 = { name = "DictTools", path = "D/DictTools" }
