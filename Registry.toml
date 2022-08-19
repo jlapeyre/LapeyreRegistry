@@ -12,3 +12,4 @@ description = "Registry for some packages not in the General Registry"
 940161ba-3fd6-11eb-2543-03b21f658be9 = { name = "UtilsGJL", path = "U/UtilsGJL" }
 a80a13f6-0846-40c3-b505-f91c1b821ec1 = { name = "PairTools", path = "P/PairTools" }
 dc918f9c-79cc-42e6-85f1-d8b9b09632f4 = { name = "StreamToString", path = "S/StreamToString" }
+e8637a5f-fa46-429a-85d3-62b6b7f83b1f = { name = "QMatrices", path = "Q/QMatrices" }
