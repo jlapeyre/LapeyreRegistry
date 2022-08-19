@@ -1,0 +1,3 @@
+name = "PirateUtils"
+uuid = "76a85e09-bf2a-452f-b9ef-4e204e7481ea"
+repo = "git@github.com:jlapeyre/PirateUtils.jl.git"
