@@ -6,4 +6,5 @@ description = "Registry for some packages not in the General Registry"
 [packages]
 6033591e-aae9-4c88-8f5f-a341f9ca5325 = { name = "DictTools", path = "D/DictTools" }
 76a85e09-bf2a-452f-b9ef-4e204e7481ea = { name = "PirateUtils", path = "P/PirateUtils" }
+7c338ca5-b20e-417b-9799-aae6c720705e = { name = "MEnums", path = "M/MEnums" }
 a80a13f6-0846-40c3-b505-f91c1b821ec1 = { name = "PairTools", path = "P/PairTools" }
