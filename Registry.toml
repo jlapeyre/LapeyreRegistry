@@ -10,3 +10,4 @@ description = "Registry for some packages not in the General Registry"
 7c338ca5-b20e-417b-9799-aae6c720705e = { name = "MEnums", path = "M/MEnums" }
 940161ba-3fd6-11eb-2543-03b21f658be9 = { name = "UtilsGJL", path = "U/UtilsGJL" }
 a80a13f6-0846-40c3-b505-f91c1b821ec1 = { name = "PairTools", path = "P/PairTools" }
+dc918f9c-79cc-42e6-85f1-d8b9b09632f4 = { name = "StreamToString", path = "S/StreamToString" }
