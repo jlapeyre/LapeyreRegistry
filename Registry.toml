@@ -11,6 +11,7 @@ description = "Registry for some packages not in the General Registry"
 8fd3887d-e730-4110-8d7c-0deb1185e58d = { name = "TupleArrays", path = "T/TupleArrays" }
 940161ba-3fd6-11eb-2543-03b21f658be9 = { name = "UtilsGJL", path = "U/UtilsGJL" }
 a80a13f6-0846-40c3-b505-f91c1b821ec1 = { name = "PairTools", path = "P/PairTools" }
+c5e1564c-46d0-4d88-984f-9aacba45ce63 = { name = "Qurt", path = "Q/Qurt" }
 c81f731e-df55-41db-9e3a-d20e2eda289e = { name = "InterfaceTraits", path = "I/InterfaceTraits" }
 d1730f61-8521-49b5-9a1a-56a32d208dc4 = { name = "BitsX", path = "B/BitsX" }
 da1032b5-7410-4fe7-baa6-5cca8121c0cc = { name = "ControlFlow", path = "C/ControlFlow" }
