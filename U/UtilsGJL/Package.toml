@@ -1,3 +1,3 @@
 name = "UtilsGJL"
 uuid = "940161ba-3fd6-11eb-2543-03b21f658be9"
-repo = "git@github.com:jlapeyre/UtilsGJL.jl.git"
+repo = "https://github.com/jlapeyre/UtilsGJL.jl"

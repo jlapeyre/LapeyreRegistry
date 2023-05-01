@@ -1,3 +1,3 @@
 name = "TupleArrays"
 uuid = "8fd3887d-e730-4110-8d7c-0deb1185e58d"
-repo = "git@github.com:jlapeyre/TupleArrays.jl.git"
+repo = "https://github.com/jlapeyre/TupleArrays.jl"

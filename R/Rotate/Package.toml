@@ -1,3 +1,3 @@
 name = "Rotate"
 uuid = "08411ca2-877e-473c-bca1-3021299c4a4d"
-repo = "git@github.com:jlapeyre/Rotate.jl.git"
+repo = "https://github.com/jlapeyre/Rotate.jl"
