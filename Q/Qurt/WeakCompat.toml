@@ -1,6 +1,0 @@
-[0]
-Cairo = "1"
-Compose = "0.9"
-Fontconfig = "0.4.1-0.4"
-GraphPlot = "0.5.2-0.5"
-PythonCall = "0.9"
