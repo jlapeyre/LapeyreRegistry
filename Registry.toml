@@ -7,7 +7,6 @@ description = "Registry for some packages not in the General Registry"
 08411ca2-877e-473c-bca1-3021299c4a4d = { name = "Rotate", path = "R/Rotate" }
 69a6172a-6e93-4cbc-8d73-93c06968df79 = { name = "GraphsExt", path = "G/GraphsExt" }
 76a85e09-bf2a-452f-b9ef-4e204e7481ea = { name = "PirateUtils", path = "P/PirateUtils" }
-7c338ca5-b20e-417b-9799-aae6c720705e = { name = "MEnums", path = "M/MEnums" }
 8fd3887d-e730-4110-8d7c-0deb1185e58d = { name = "TupleArrays", path = "T/TupleArrays" }
 940161ba-3fd6-11eb-2543-03b21f658be9 = { name = "UtilsGJL", path = "U/UtilsGJL" }
 a80a13f6-0846-40c3-b505-f91c1b821ec1 = { name = "PairTools", path = "P/PairTools" }
