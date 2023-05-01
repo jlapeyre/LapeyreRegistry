@@ -1,0 +1,11 @@
+[0]
+BlockEnums = "1"
+ConcreteStructs = "0.2.3-0.2"
+DictTools = "0.2.3-0.2"
+Dictionaries = "0.3"
+Graphs = "1.8.0-1"
+GraphsExt = "1.1.0-1"
+PrecompileTools = "1"
+StructArrays = "0.6"
+SymbolicUtils = "1"
+julia = "1.8.0-1"
