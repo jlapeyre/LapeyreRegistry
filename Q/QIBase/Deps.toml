@@ -1,0 +1,7 @@
+[0]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+ILog2 = "2cd5bd5f-40a1-5050-9e10-fc8cdb6109f5"
+IsApprox = "28f27b66-4bd8-47e7-9110-e2746eb8bed7"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+QMatrices = "e8637a5f-fa46-429a-85d3-62b6b7f83b1f"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"

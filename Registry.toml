@@ -17,3 +17,4 @@ d1730f61-8521-49b5-9a1a-56a32d208dc4 = { name = "BitsX", path = "B/BitsX" }
 da1032b5-7410-4fe7-baa6-5cca8121c0cc = { name = "ControlFlow", path = "C/ControlFlow" }
 dc918f9c-79cc-42e6-85f1-d8b9b09632f4 = { name = "StreamToString", path = "S/StreamToString" }
 e8637a5f-fa46-429a-85d3-62b6b7f83b1f = { name = "QMatrices", path = "Q/QMatrices" }
+f4485a06-ee1a-4e97-a8d5-fc032a1b0f3c = { name = "QIBase", path = "Q/QIBase" }
