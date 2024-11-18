@@ -1,0 +1,3 @@
+name = "IdentityMatrix"
+uuid = "8edef7da-e1b3-479c-b6e4-7e7cac36144b"
+repo = "git@github.com:jlapeyre/IdentityMatrix.jl"
