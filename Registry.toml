@@ -6,6 +6,7 @@ description = "Registry for some packages not in the General Registry"
 [packages]
 08411ca2-877e-473c-bca1-3021299c4a4d = { name = "Rotate", path = "R/Rotate" }
 69a6172a-6e93-4cbc-8d73-93c06968df79 = { name = "GraphsExt", path = "G/GraphsExt" }
+6dbe6948-1a74-428b-a0c7-b6033448b207 = { name = "StackEnvs", path = "S/StackEnvs" }
 76a85e09-bf2a-452f-b9ef-4e204e7481ea = { name = "PirateUtils", path = "P/PirateUtils" }
 7c338ca5-b20e-417b-9799-aae6c720705e = { name = "BlockEnums", path = "B/BlockEnums" }
 8edef7da-e1b3-479c-b6e4-7e7cac36144b = { name = "IdentityMatrix", path = "I/IdentityMatrix" }
