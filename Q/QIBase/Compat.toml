@@ -1,2 +1,6 @@
 [0]
 julia = "1"
+
+["0.5 - 0"]
+IdentityMatrix = "1.0.1 - 1"
+QMatrices = "0.3 - 0.7"
