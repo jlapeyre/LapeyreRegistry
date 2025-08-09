@@ -6,7 +6,7 @@ LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 IsApprox = "28f27b66-4bd8-47e7-9110-e2746eb8bed7"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
-["0.10 - 0"]
+["0.10"]
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 
 ["0.4 - 0"]
